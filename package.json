@@ -1,0 +1,1 @@
+{"name":"toon-rig-studio","version":"1.0.0","private":true,"dependencies":{"three":"0.169.0","@capacitor/core":"6.2.1","@capacitor/android":"6.2.1"},"devDependencies":{"@capacitor/cli":"6.2.1"},"scripts":{"prepare:assets":"mkdir -p www/node_modules && cp -R node_modules/three www/node_modules/"}}
